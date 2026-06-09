@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which OOP concept hides internal states and requires all interaction to be performed through an object's methods?",
+    "options": ["Polymorphism", "Encapsulation", "Inheritance", "Abstraction"],
+    "answer": 1
+  },
+  {
+    "question": "When a subclass provides a specific implementation of a method that is already provided by its parent class, it is called:",
+    "options": ["Overloading", "Overriding", "Shadowing", "Inheriting"],
+    "answer": 1
+  }
+]

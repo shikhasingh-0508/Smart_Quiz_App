@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which keyword is used for asynchronous functions in Dart?",
+    "options": ["sync", "await", "async", "future"],
+    "answer": 2
+  },
+  {
+    "question": "What is the entry point of a Dart program?",
+    "options": ["start()", "init()", "run()", "main()"],
+    "answer": 3
+  }
+]
