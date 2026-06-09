@@ -216,7 +216,7 @@ dart run
 Each quiz attempt is saved with:
 
 ```plaintext
-Name: John Doe
+Name: Abc
 Student ID: 12345
 Score: 8/10
 Time Taken: 42 seconds
