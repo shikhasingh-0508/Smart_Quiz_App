@@ -83,7 +83,7 @@ The application was designed to demonstrate the following concepts:
   2. Lowest completion time
 * Displays Top 5 performers after quiz completion.
 
-### 💾 Persistent Result Storage
+### Persistent Result Storage
 
 * Results remain available between application runs.
 * Separate result files maintained for each quiz category.
