@@ -211,7 +211,7 @@ dart run
 
 ---
 
-## 📊 Result Storage Format
+##  Result Storage Format
 
 Each quiz attempt is saved with:
 
@@ -250,7 +250,7 @@ Rank  Name          Score   Time
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Additional quiz categories
 * Randomized question ordering
@@ -263,7 +263,7 @@ Rank  Name          Score   Time
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Shikha Singh**
 
@@ -275,7 +275,7 @@ Unlox Academy (Rivoquix Learning Private Limited)
 
 ---
 
-## 📜 License
+##  License
 
 This project is developed for educational and learning purposes.
 
